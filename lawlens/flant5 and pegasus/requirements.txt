@@ -1,0 +1,5 @@
+transformers datasets rouge-score peft accelerate sentencepiece
+matplotlib 
+pandas numpy 
+ fsspec==2025.3.2
+ evaluate
